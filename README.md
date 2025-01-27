@@ -123,19 +123,12 @@
   </a>
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SamyakMishra072&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SamyakMishra072&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamyakMishra072&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SamyakMishra072&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SamyakMishra072&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
-<a href="https://github.com/SamyakMishra072/github-readme-activity-graph">
-  <img alt="Samyak's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=SamyakMishra072&theme=react-dark&hide_border=true" />
-</a>
+![](https://komarev.com/ghpvc/?username=SamyakMishra072)
 
 <h2 align="center">⚡ Fun Fact</h2>
 
