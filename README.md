@@ -1,3 +1,4 @@
+[V0_FILE]typescriptreact:file="README.md" isMerged="true"
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there%2C+I'm+Samyak+Mishra+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Aspiring+Software+Development+Engineer+%F0%9F%9A%80;Welcome+to+my+Digital+Playground+%F0%9F%8E%AE" alt="Typing SVG" />
 </div>
@@ -157,4 +158,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/SamyakMishra072/SamyakMishra072/main/assets/github-contribution-grid-snake.svg" alt="snake" />
 </p>
-
