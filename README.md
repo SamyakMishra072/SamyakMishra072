@@ -151,10 +151,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A9FEF7&center=true&vCenter=true&width=435&lines=Feel+free+to+reach+out+for;collaborations%2C+open-source+projects%2C;or+technical+discussions!" alt="Collaboration Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SamyakMishra072/SamyakMishra072/main/assets/github-contribution-grid-snake.svg" alt="snake" />
-</p>
-
 ```cpp
 #include <iostream>
 #include <vector>
