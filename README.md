@@ -158,3 +158,48 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/SamyakMishra072/SamyakMishra072/main/assets/github-contribution-grid-snake.svg" alt="snake" />
 </p>
+
+```cpp
+#include <iostream>
+#include <vector>
+using namespace std;
+
+class CodeAlchemist {
+private:
+    string name = "Samyak Mishra";
+    string role = "Aspiring Software Development Engineer";
+    vector<string> skills = {"C++", "Java", "Python", "Machine Learning", "DSA", "OS Concepts"};
+    vector<string> passions = {"Open-source", "Knowledge sharing", "Systems programming"};
+
+public:
+    void introduce() {
+        cout << "Hello, World! I'm " << name << ", " << role << "." << endl;
+    }
+
+    void displaySkills() {
+        cout << "Skills:" << endl;
+        for (const auto& skill : skills) {
+            cout << "  ⚡ " << skill << endl;
+        }
+    }
+
+    void showPassions() {
+        cout << "Passions:" << endl;
+        for (const auto& passion : passions) {
+            cout << "  🔥 " << passion << endl;
+        }
+    }
+
+    void funFact() {
+        cout << "Fun Fact: I dream of crafting my custom OS while diving into hacker-level coding adventures! 🖥️" << endl;
+    }
+};
+
+int main() {
+    CodeAlchemist me;
+    me.introduce();
+    me.displaySkills();
+    me.showPassions();
+    me.funFact();
+    return 0;
+}
