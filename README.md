@@ -1,24 +1,33 @@
 # 💻 About Me:
 ```cpp
 #include <iostream>
+#include <vector>
 using namespace std;
 
 class Developer {
 public:
     string name = "Samyak Mishra";
     string role = "Aspiring Software Development Engineer (SDE)";
-    string passion = "Open-source contributions & sharing knowledge";
+    vector<string> passions = {"Open-source contributions", "Sharing knowledge", "Operating Systems"};
 
     void displaySkills() {
-        cout << "\n🔹 C++ | Java | ML | DSA | OS Concepts" << endl;
-        cout << "🔹 Public Speaking | Leadership | Systems Programming\n";
+        cout << "\n🔹 Core Skills: C++ | Java | Python | Machine Learning | DSA | OS Concepts" << endl;
+        cout << "🔹 Other Skills: Leadership | Public Speaking | Systems Programming\n";
+    }
+
+    void showPassions() {
+        cout << "\nPassionate About:" << endl;
+        for (const auto& passion : passions) {
+            cout << "   🔹 " << passion << endl;
+        }
     }
 };
 
 int main() {
     Developer me;
-    cout << "Hi! I am " << me.name << ", " << me.role << ".\n";
+    cout << "Welcome to the profile of " << me.name << ", " << me.role << ".\n";
     me.displaySkills();
+    me.showPassions();
     return 0;
 }
 ```
@@ -26,12 +35,12 @@ int main() {
 ---
 
 ### 🚀 Currently:
-- 🛠 Sharpening skills in **C++** and **Machine Learning**.
-- 🤝 Collaborating on **Open-source projects** and **technical initiatives** under the **GFG Student Chapter TMSL**.
-- 🙋 Seeking mentorship for **systems-level programming expertise**.
+- 🛠 Enhancing expertise in **C++** and **Machine Learning**.
+- 🤝 Collaborating on **Open-source projects** and **GFG Student Chapter TMSL initiatives**.
+- 🙋 Seeking opportunities to deepen **systems-level programming** knowledge.
 
 ### ⚡ Fun Fact:
-- I can talk about **Operating Systems** concepts all day while brewing ideas for my **custom OS**! 🖥️
+- I dream of crafting my **custom OS** while diving into **hacker-level coding adventures**! 🖥️
 
 ---
 
@@ -41,42 +50,63 @@ int main() {
 ---
 
 # 💻 Tech Arsenal:
-```bash
+```yaml
 # Core Languages
-🔹 C++ | C | Java | Python | JavaScript | TypeScript | PHP
+- C++
+- C
+- Java
+- Python
+- JavaScript
+- TypeScript
+- PHP
 
-# Web & Frameworks
-🔹 React | Next.js | TailwindCSS | Vite | Node.js
+# Web Development
+- React
+- Next.js
+- TailwindCSS
+- Vite
+- Node.js
 
-# ML/DL Tools
-🔹 TensorFlow | PyTorch | Keras | NumPy | Pandas | Scikit-learn
+# ML/DL Frameworks
+- TensorFlow
+- PyTorch
+- Keras
+- NumPy
+- Pandas
+- Scikit-learn
 
-# Database
-🔹 MySQL | MongoDB
+# Databases
+- MySQL
+- MongoDB
 
-# DevOps & Tools
-🔹 Git | GitHub | Bash | PowerShell | Vercel | Netlify
+# Tools
+- Git | GitHub
+- Bash | PowerShell
+- Vercel | Netlify
 
-# Others
-🔹 Canva | GIMP | JavaFX | Matplotlib
+# Design
+- Canva | GIMP
+
+# Visualization
+- Matplotlib
 ```
 
 ---
 
 ## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamyakMishra072&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)<br>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SamyakMishra072&theme=tokyonight&hide_border=true)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamyakMishra072&theme=tokyonight&hide_border=true&layout=compact&langs_count=10)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamyakMishra072&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)<br>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SamyakMishra072&theme=dark&hide_border=true)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamyakMishra072&theme=dark&hide_border=true&layout=compact&langs_count=10)
 
 ---
 
 ## 🏆 Achievements:
-![Trophies](https://github-profile-trophy.vercel.app/?username=SamyakMishra072&theme=dracula&no-frame=true&row=1&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=SamyakMishra072&theme=onestar&no-frame=true&row=1&column=7)
 
 ---
 
 ### ✍️ Dev Quote:
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 
@@ -86,7 +116,7 @@ int main() {
 ---
 
 ### 🔥 Profile Views:
-![Profile Views](https://komarev.com/ghpvc/?username=SamyakMishra072&style=for-the-badge&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=SamyakMishra072&style=for-the-badge&color=red)
 
 ---
 
