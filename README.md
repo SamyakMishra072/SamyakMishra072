@@ -113,7 +113,7 @@
   <a href="https://linkedin.com/in/samyak072/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:samyakmishra072@gmail.com" target="_blank">
+  <a href="mailto:sm2.cse.tmsl@ticollege.org" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
 </p>
