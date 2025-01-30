@@ -125,7 +125,9 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SamyakMishra072&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SamyakMishra072&theme=dark&hide_border=false)<br/>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamyakMishra072&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
@@ -143,8 +145,6 @@
 </p>
 
 ### 🐍 Contribution Snake:
-![Snake animation](https://github.com/SamyakMishra072/SamyakMishra072/blob/output/github-contribution-grid-snake-dark.svg)
-
 <h2 align="center">🎯 Let's Build Something Amazing Together!</h2>
 
 <p align="center">
