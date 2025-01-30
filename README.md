@@ -130,8 +130,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamyakMishra072&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-![](https://komarev.com/ghpvc/?username=SamyakMishra072)
 <h2 align="center">⚡ Fun Fact</h2>
 
 <p align="center">
