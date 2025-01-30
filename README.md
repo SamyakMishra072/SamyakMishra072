@@ -144,7 +144,6 @@
   <img src="https://komarev.com/ghpvc/?username=SamyakMishra072&style=for-the-badge&color=blueviolet" alt="Profile Views" />
 </p>
 
-### 🐍 Contribution Snake:
 <h2 align="center">🎯 Let's Build Something Amazing Together!</h2>
 
 <p align="center">
